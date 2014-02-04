@@ -1,0 +1,4 @@
+com/misra/cq/samples/package-info.class
+com/misra/cq/samples/HelloService.class
+com/misra/cq/samples/impl/filters/LoggingFilter.class
+com/misra/cq/samples/impl/HelloServiceImpl.class
